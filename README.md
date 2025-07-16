@@ -19,3 +19,10 @@ Visualization 📊
 Report 1: overview of the company's main KPIs , best performing countries , best sellers products and demographic distribution.
 Report 2: Time series analysis and the average delivery duration for online sales.
 Report 3: Sales Distibution value / orders across the countries and continents the company operates in and highlght of the min KPIs.
+
+![electro Sales 2_page-0001](https://github.com/user-attachments/assets/c8902cff-dcf9-4928-8a5e-7ae60da48f98)
+![electro Sales 2_page-0002](https://github.com/user-attachments/assets/736652c6-11a9-48ca-b70b-75009e283283)
+![electro Sales 2_page-0003](https://github.com/user-attachments/assets/dde096cc-6e51-4af9-9d78-0595db65260f)
+
+
+
